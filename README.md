@@ -32,4 +32,4 @@ Here is my Portfolio as Data Analyst, please check it out!
 
 ### Code example:
 1. [E-commerce Public Dataset](https://github.com/DWply/Dharma-Wangsa-Data-Analytics-Portfolio/blob/5ee419b92ff6df15aa57794deb342f3ab5d08154/Ecommerce_Exploratory_Data_Analysis_Portfolio.ipynb)
-2. 
+2. [Property List Dataset](https://github.com/DWply/Dharma-Wangsa-Data-Analytics-Portfolio/blob/2810a39d82f417147960cb11ab6e5796f8312b9c/Property_List_Dataset_Portfolio.ipynb)
