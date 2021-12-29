@@ -2,11 +2,11 @@
 Hi! My name is Achmad Amri Dharma Wangsa, just called me Dharma Wangsa.
 Here is my Portfolio as Data Analyst, please check it out!
 
-SQL Skill sets:
+## SQL Skill sets:
 
 Standard Query Syntax; SQL Aggregate Functions; SQL Joins; SQL Data Type; SQL Date Format; SQL Window Function
 
-Example :
+### Example :
 1. Create a query to get average amount of duration (in minutes) : https://console.cloud.google.com/bigquery?sq=728375418378:2f353bc9b2d2443da123f553dcbebf39
 2. Create a query to get total trips and total number of unique bikes grouped by region name : https://console.cloud.google.com/bigquery?sq=728375418378:9410dd528a914c0889df034b7e33a0bd
 3. Get latest detail trip in each region : https://console.cloud.google.com/bigquery?sq=728375418378:e97e355ae2a9418b9caee60551b59c7a
