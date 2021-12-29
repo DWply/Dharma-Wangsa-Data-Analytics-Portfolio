@@ -2,7 +2,7 @@
 Hi! My name is Achmad Amri Dharma Wangsa, just called me Dharma Wangsa.
 Here is my Portfolio as Data Analyst, please check it out!
 
-SQL Skill sets:
+SQL Skill sets: /n
 Standard Query Syntax; SQL Aggregate Funcctions; SQL Joins; SQL Data Type; SQL Date Format; SQL Window Function
 
 Example >>>>
