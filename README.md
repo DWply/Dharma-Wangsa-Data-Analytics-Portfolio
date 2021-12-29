@@ -29,6 +29,7 @@ Here is my Portfolio as Data Analyst, please check it out!
 * Data aggregation
 * Descriptive statistic
 * Analyzing using visualization
+* Cluster Analysis
 
 ### Code example:
 1. [E-commerce Public Dataset](https://github.com/DWply/Dharma-Wangsa-Data-Analytics-Portfolio/blob/5ee419b92ff6df15aa57794deb342f3ab5d08154/Ecommerce_Exploratory_Data_Analysis_Portfolio.ipynb)
