@@ -56,3 +56,6 @@ Here is my Portfolio as Data Analyst, please check it out!
 
 ### Example:
 [Order Performance Dashboard in Brazil Region](https://public.tableau.com/app/profile/dharma.wangsa2601/viz/OrderPerformanceDataVisualization-BrazilEcommerce/OrderPerformanceDashboard?publish=yes)
+[Order Performance Dashboard in Brazil Region v2](https://public.tableau.com/views/W9W10_KeyAnswer_IntermediateJAN22/InteractiveDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+[Netflix Movies and TV Series Overview Dashboard](https://public.tableau.com/views/TLsim_W9W10_Team5/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
