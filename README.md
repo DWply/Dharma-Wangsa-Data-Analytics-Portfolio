@@ -2,8 +2,17 @@
 Hi! My name is Achmad Amri Dharma Wangsa, just called me Dharma Wangsa.
 Here is my Portfolio as Data Analyst, please check it out!
 
-## SQL Skill sets:
+## Spreadsheet/ Excel and Skill sets:
+* Data Cleaning;
+* Descriptive Statistics;
+* Data Visualization;
+* Gathering Insights;
+* A/B Testing
 
+#### Deck :
+[Data Cleaning and Processing in Spreadsheet](https://drive.google.com/file/d/1pL3b73PEav3U2CWDvTMt3FXDERvllViS/view?usp=sharing)
+
+## SQL Skill sets:
 * Standard Query Syntax;  
 * SQL Aggregate Functions; 
 * SQL Joins; 
