@@ -12,7 +12,7 @@ Here is my Portfolio as Data Analyst, please check it out!
 * Gathering Insights;
 * A/B Testing
 
-#### Deck :
+### Deck :
 [Data Cleaning and Processing in Spreadsheet](https://drive.google.com/file/d/1pL3b73PEav3U2CWDvTMt3FXDERvllViS/view?usp=sharing)
 
 ## SQL Skill sets:
