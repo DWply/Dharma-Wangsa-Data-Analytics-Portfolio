@@ -59,3 +59,6 @@ Here is my Portfolio as Data Analyst, please check it out!
 2. [Order Performance Dashboard in Brazil Region v2](https://public.tableau.com/views/W9W10_KeyAnswer_IntermediateJAN22/InteractiveDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 3. [Netflix Movies and TV Series Overview Dashboard](https://public.tableau.com/views/TLsim_W9W10_Team5/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
+
+##Project Based Analytics
+1. [Bakery Performance Analysis](https://drive.google.com/file/d/1MKlriq-m8l7C-uEi3HFtuQOpi45r4vsw/view?usp=sharing)
